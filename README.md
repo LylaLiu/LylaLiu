@@ -4,3 +4,4 @@ I am Shiyu Liu.
 - 🔭 Currently, I am looking to leverage my new Data Science skills into a full-time data focused role.
 - 👯 Possessing extensive practical experience in the education sector, eager to contribute to team success through hard work, talent, and excellent organizational skills. Motivated to learn, grow, and excel in the tech industry. 
 - 😄 Motivated to learn, grow, and excel in the tech industry. 
+- 📕 Have a look at the my collection of data science practice projects!
